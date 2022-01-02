@@ -1,6 +1,9 @@
 {
   "name": "taminak",
   "version": "0.0.1",
+  "engines": {
+    "node": "14.x"
+  },
   "description": "Client Documentation Guid",
   "main": "index.js",
   "authors": {

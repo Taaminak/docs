@@ -51,7 +51,17 @@ module.exports = {
         {
           title: "Site Pages",
           collapsable: true,
-          children: ["pages/", "pages/using-vue"],
+          children: ["pages/", "pages/about"],
+        },
+        {
+          title: "Insurance Steps",
+          collapsable: true,
+          children: ["steps/"],
+        },
+        {
+          title: "Account",
+          collapsable: true,
+          children: ["account/"],
         },
       ],
     },

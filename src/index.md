@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: ~@source/assets/images/logo.svg
+heroImage: /images/logo.svg
 tagline: Client docs
 actionText: Quick Start →
 actionLink: /guide/

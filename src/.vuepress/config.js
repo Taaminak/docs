@@ -40,17 +40,18 @@ module.exports = {
         text: "Guide",
         link: "/guide/",
       },
-      {
-        text: "Config",
-        link: "/config/",
-      },
     ],
     sidebar: {
       "/guide/": [
         {
           title: "Guide",
-          collapsable: false,
+          collapsable: true,
           children: ["", "using-vue"],
+        },
+        {
+          title: "Site Pages",
+          collapsable: true,
+          children: ["pages/", "pages/using-vue"],
         },
       ],
     },

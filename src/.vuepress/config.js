@@ -52,7 +52,7 @@ module.exports = {
         {
           title: "Insurance Steps",
           collapsable: true,
-          children: ["steps/", "steps/step1", "steps/step2"],
+          children: ["steps/", "steps/step1", "steps/step2", "steps/step3"],
         },
         {
           title: "User pages",

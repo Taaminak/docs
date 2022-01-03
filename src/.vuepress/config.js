@@ -46,23 +46,23 @@ module.exports = {
       "/guide/": [
         {
           title: "Guide",
+          collapsable: false,
+          children: [""],
+        },
+        {
+          title: "Insurance Steps",
           collapsable: true,
-          children: ["", "using-vue"],
+          children: ["steps/", "steps/step1"],
+        },
+        {
+          title: "User pages",
+          collapsable: true,
+          children: ["account/"],
         },
         {
           title: "Site Pages",
           collapsable: true,
           children: ["pages/", "pages/about"],
-        },
-        {
-          title: "Insurance Steps",
-          collapsable: true,
-          children: ["steps/"],
-        },
-        {
-          title: "Account",
-          collapsable: true,
-          children: ["account/"],
         },
       ],
     },

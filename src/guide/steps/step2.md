@@ -1,4 +1,4 @@
-# Additional data step
+# Additional Data
 
 This is the [second step](https://insurance.inovola-stage.com/AdditionalData) where you can add the additional data for the discount, car driver, car owner and car details.
 

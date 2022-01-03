@@ -18,6 +18,8 @@ this form for make new insurance
 
 4- captcha this is a code for short time to prevent the hacks
 
+## Move Insurance
+
 ![Move Insurance](/images/steps/step1-2.png)
 
 This form to move the insurance from the seller to the buyer
@@ -25,6 +27,8 @@ This form to move the insurance from the seller to the buyer
 5- Seller ssn
 
 6- buyer ssn `0123456789`
+
+## Make Insurance with customs number
 
 ![Customs Insurance](/images/steps/step1-3.png)
 

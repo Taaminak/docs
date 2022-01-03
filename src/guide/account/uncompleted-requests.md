@@ -8,4 +8,4 @@ he can complete this order with saved data or delete those data
 
 - [**Uncompleted requests Page**](https://insurance-client.inovola-stage.com/main/uncompletedCards)
 
-![Insurance Cards](/images/account/account-3-1.png)
+![Insurance Cards](/taaminkom-docs/images/account/account-3-1.png)

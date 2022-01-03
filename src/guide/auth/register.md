@@ -6,10 +6,10 @@
 
 - _LOGIN_ Button
 
-![Register](/images/auth/auth-2.png)
+![Register](/taaminkom-docs/images/auth/auth-2.png)
 
 ## Phone Confirmation
 
 - After Register it will open "phone confirmation modal'
 
-![phone confirmation](/images/auth/auth-2-2.png)
+![phone confirmation](/taaminkom-docs/images/auth/auth-2-2.png)

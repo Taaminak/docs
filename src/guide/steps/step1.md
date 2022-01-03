@@ -4,7 +4,7 @@ This is the [first step](http://insurance-client.inovola-stage.com) where you ca
 
 ## Make new Insurance
 
-![New Insurance](/images/steps/step1-1.png)
+![New Insurance](/taaminkom-docs/images/steps/step1-1.png)
 
 this form for make new insurance
 
@@ -20,7 +20,7 @@ this form for make new insurance
 
 ## Move Insurance
 
-![Move Insurance](/images/steps/step1-2.png)
+![Move Insurance](/taaminkom-docs/images/steps/step1-2.png)
 
 This form to move the insurance from the seller to the buyer
 
@@ -30,7 +30,7 @@ This form to move the insurance from the seller to the buyer
 
 ## Make Insurance with customs number
 
-![Customs Insurance](/images/steps/step1-3.png)
+![Customs Insurance](/taaminkom-docs/images/steps/step1-3.png)
 
 This form to make new insurance for car with the customs number
 

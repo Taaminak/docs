@@ -6,4 +6,4 @@
 
 - click _Did you forget your password?_ if you forget password
 
-![Login](/images/auth/auth-1.png)
+![Login](/taaminkom-docs/images/auth/auth-1.png)

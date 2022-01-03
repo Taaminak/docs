@@ -8,7 +8,7 @@ this page contains a contact static data and contact form that end messages to t
 
 ## contact form
 
-![Contact](/images/pages/contact.png)
+![Contact](/taaminkom-docs/images/pages/contact.png)
 
 1- user full name
 

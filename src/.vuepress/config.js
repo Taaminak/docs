@@ -55,6 +55,16 @@ module.exports = {
           children: ["steps/", "steps/step1"],
         },
         {
+          title: "Auth Models",
+          collapsable: true,
+          children: [
+            "auth/",
+            "auth/login",
+            "auth/register",
+            "auth/reset-password",
+          ],
+        },
+        {
           title: "User pages",
           collapsable: true,
           children: [

@@ -65,6 +65,7 @@ module.exports = {
             "account/electronic-payment",
             "account/technical-support",
             "account/personal-information",
+            "account/notifications",
           ],
         },
         {

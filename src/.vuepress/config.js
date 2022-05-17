@@ -1,11 +1,11 @@
 const { description } = require("../../package");
 
 module.exports = {
-  base: "/taaminkom-docs/",
+  base: "/rakeez-docs/",
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: "Tamincom Docs",
+  title: "Rakeez Docs",
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -17,7 +17,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/config/#head
    */
   head: [
-    ["meta", { name: "theme-color", content: "#92c01f" }],
+    ["meta", { name: "theme-color", content: "#418ac9" }],
     ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
     [
       "meta",

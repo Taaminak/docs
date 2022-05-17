@@ -1,6 +1,6 @@
 # New Insurance
 
-This is the [first step](http://insurance-client.inovola-stage.com) where you can enter the basic content to make insurance or move the insurance owner like car owner ssn, car serial number or customs number.
+This is the [first step](https://rakeez.com.sa/) where you can enter the basic content to make insurance or move the insurance owner like car owner ssn, car serial number or customs number.
 
 ## Make new Insurance
 

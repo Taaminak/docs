@@ -4,7 +4,7 @@
 
 this page allow users to add support tickets and follow old tickets
 
-- [**Technical support Page**](https://insurance-client.inovola-stage.com/main/TicketCards)
+- [**Technical support Page**](https://rakeez.com.sa/main/TicketCards)
 
 ## Saved ticket
 

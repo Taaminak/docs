@@ -4,4 +4,4 @@
 
 has dynamic question and answers you can add them from the dashboard
 
-- [**Q&A Page**](https://insurance-client.inovola-stage.com/Question)
+- [**Q&A Page**](https://rakeez.com.sa/Question)

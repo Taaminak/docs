@@ -4,7 +4,7 @@
 
 this page allow users to save credit cards data for future use
 
-- [**Electronic payment Page**](https://insurance-client.inovola-stage.com/main/CreditCards)
+- [**Electronic payment Page**](https://rakeez.com.sa/main/CreditCards)
 
 ## Saved Cards
 

@@ -4,7 +4,7 @@
 
 User can edit and update user information and account password
 
-- [**Personal information Page**](https://insurance-client.inovola-stage.com/main/PersonalInfo)
+- [**Personal information Page**](https://rakeez.com.sa/main/PersonalInfo)
 
 ## update account info.
 

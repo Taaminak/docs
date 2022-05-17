@@ -2,14 +2,10 @@
 
 ## Reset Password
 
-- enter your Phone then click _SEND_ button
+- enter your old password
+
+- And then enter new password
+
+- And confirm new password then  click _SET PASSWORD_ button
 
 ![Reset Password](/taaminkom-docs/images/auth/auth-3.png)
-
-## Set Password
-
-- you will recive a code sms message to reset password
-
-- enter code and new password then click _SET PASSWORD_ button
-
-![Set Password](/taaminkom-docs/images/auth/auth-3-1.png)

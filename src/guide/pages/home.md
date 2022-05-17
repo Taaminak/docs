@@ -4,7 +4,7 @@
 
 Home page of the website that contains first step of making insurance, also has some static and dynamic sections
 
-- [**Home Page**](https://insurance-client.inovola-stage.com)
+- [**Home Page**](https://rakeez.com.sa)
 
 ## Static Sections
 

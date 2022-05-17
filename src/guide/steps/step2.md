@@ -2,7 +2,7 @@
 
 This is the [second step](https://insurance.inovola-stage.com/AdditionalData) where you can add the additional data for the discount, car driver, car owner and car details.
 
-![Additional data](/taaminkom-docs/images/steps/step2-1.png)
+![Additional data](/rakeez-docs/images/steps/step2-1.png)
 
 1. Car estimated value in the market
 2. Car usage goal
@@ -16,13 +16,13 @@ This is the [second step](https://insurance.inovola-stage.com/AdditionalData) wh
 
 ### Discount with organization email
 
-![discounts 1](/taaminkom-docs/images/steps/step2-discount-1.png)
+![discounts 1](/rakeez-docs/images/steps/step2-discount-1.png)
 
 8. Organization email
 9. Send the verification code to the email if it is valid
 10. cancel the applied coupon and reset discount data
 
-![discounts 2](/taaminkom-docs/images/steps/step2-discount-2.png)
+![discounts 2](/rakeez-docs/images/steps/step2-discount-2.png)
 
 11. Verification code
 12. Resend the code
@@ -30,7 +30,7 @@ This is the [second step](https://insurance.inovola-stage.com/AdditionalData) wh
 
 ### Discount with organization name and member ssn
 
-![discounts 3](/taaminkom-docs/images/steps/step2-discount-3.png)
+![discounts 3](/rakeez-docs/images/steps/step2-discount-3.png)
 
 14. Select the organization you want to apply the discount for it
 15. The ssn in the selected organization13
@@ -38,13 +38,13 @@ This is the [second step](https://insurance.inovola-stage.com/AdditionalData) wh
 
 ### Discount with promo code
 
-![discounts 4](/taaminkom-docs/images/steps/step2-discount-4.png)
+![discounts 4](/rakeez-docs/images/steps/step2-discount-4.png)
 
 18. Promo code
 
 ## Car Driver
 
-![car driver](/taaminkom-docs/images/steps/step2-driver-1.png)
+![car driver](/rakeez-docs/images/steps/step2-driver-1.png)
 
 You can add car driver.
 
@@ -64,7 +64,7 @@ Some fields will be required based on your choices
 
 ## Car owner and car details
 
-![Car owner and car details](/taaminkom-docs/images/steps/step2-car_owner_and_car_details-1.png)
+![Car owner and car details](/rakeez-docs/images/steps/step2-car_owner_and_car_details-1.png)
 
 The data not required but some fields will be required based on your choices
 

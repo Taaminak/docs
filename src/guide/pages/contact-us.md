@@ -4,11 +4,11 @@
 
 this page contains a contact static data and contact form that end messages to the dashboard
 
-- [**Contact Page**](https://insurance-client.inovola-stage.com/ContactUS)
+- [**Contact Page**](https://rakeez.com.sa/ContactUS)
 
 ## contact form
 
-![Contact](/taaminkom-docs/images/pages/contact.png)
+![Contact](/rakeez-docs/images/pages/contact.png)
 
 1- user full name
 

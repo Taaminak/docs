@@ -80,7 +80,7 @@ export default {
 
 .dlinks .link a {
   display: inline-block;
-  border: 1px solid #92c01f;
+  border: 1px solid #418ac9;
   padding: 10px 15px;
   line-height: 1;
   vertical-align: middle;
@@ -89,7 +89,7 @@ export default {
 }
 .dlinks .link a:hover {
   text-decoration: none;
-  background-color: #92c01f;
+  background-color: #418ac9;
   color: #fff;
 }
 .dlinks .link a:active {

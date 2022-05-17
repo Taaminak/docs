@@ -6,6 +6,6 @@ Dynamic pages for Service terms of use and privacy policy
 
 You can add or update there content fro the dashboard
 
-- [**Privacy Policy Page**](https://insurance-client.inovola-stage.com/Agreement)
+- [**Privacy Policy Page**](https://rakeez.com.sa/Agreement)
 
-- [**Terms & Conditions Page**](https://insurance-client.inovola-stage.com/Policy)
+- [**Terms & Conditions Page**](https://rakeez.com.sa/Policy)

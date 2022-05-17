@@ -4,19 +4,19 @@
 
 this page allow users to save credit cards data for future use
 
-- [**Electronic payment Page**](https://insurance-client.inovola-stage.com/main/CreditCards)
+- [**Electronic payment Page**](https://rakeez.com.sa/main/CreditCards)
 
 ## Saved Cards
 
 - the page will show saved card wite a mask to hide details
 
-![payment Cards](/taaminkom-docs/images/account/account-4-1.png)
+![payment Cards](/rakeez-docs/images/account/account-4-1.png)
 
 - click _add new card_ button to add new credit card
 
 ## add new card
 
-![payment Cards](/taaminkom-docs/images/account/account-4-2.png)
+![payment Cards](/rakeez-docs/images/account/account-4-2.png)
 
 - add card data then click _add new card_ , it will save the card and show all saved cards
 

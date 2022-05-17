@@ -4,7 +4,7 @@
 
 User can edit and update user information and account password
 
-- [**Personal information Page**](https://insurance-client.inovola-stage.com/main/PersonalInfo)
+- [**Personal information Page**](https://rakeez.com.sa/main/PersonalInfo)
 
 ## update account info.
 
@@ -14,10 +14,10 @@ User can edit and update user information and account password
 
 - update any data and click _SAVE_
 
-![pdate account info.](/taaminkom-docs/images/account/account-6-1.png)
+![pdate account info.](/rakeez-docs/images/account/account-6-1.png)
 
 ## change password.
 
 - user can update his password by providing current valid password and new one and click _CHANGE PASSWORD_
 
-![pdate account info.](/taaminkom-docs/images/account/account-6-2.png)
+![pdate account info.](/rakeez-docs/images/account/account-6-2.png)

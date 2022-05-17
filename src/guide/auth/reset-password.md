@@ -8,4 +8,4 @@
 
 - And confirm new password then  click _SET PASSWORD_ button
 
-![Reset Password](/taaminkom-docs/images/auth/auth-3.png)
+![Reset Password](/rakeez-docs/images/auth/auth-3.png)

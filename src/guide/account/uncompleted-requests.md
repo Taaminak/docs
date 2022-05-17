@@ -8,4 +8,4 @@ he can complete this order with saved data or delete those data
 
 - [**Uncompleted requests Page**](https://rakeez.com.sa/main/uncompletedCards)
 
-![Insurance Cards](/taaminkom-docs/images/account/account-3-1.png)
+![Insurance Cards](/rakeez-docs/images/account/account-3-1.png)

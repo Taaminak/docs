@@ -6,10 +6,10 @@ This is the [third step](https://insurance.inovola-stage.com/insuranceOffers/) y
 
 ## Third party liability insurance
 
-![third party liability](/taaminkom-docs/images/steps/step3-third_party_liability.png)
+![third party liability](/rakeez-docs/images/steps/step3-third_party_liability.png)
 
 ## Comprehensive insurance
 
-![comprehensive](/taaminkom-docs/images/steps/step3-comprehensive.png)
+![comprehensive](/rakeez-docs/images/steps/step3-comprehensive.png)
 
 - There are 2 types of comprehensive insurance Agency and workshop maintenance

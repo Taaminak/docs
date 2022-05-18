@@ -23,6 +23,7 @@ module.exports = {
       "meta",
       { name: "apple-mobile-web-app-status-bar-style", content: "black" },
     ],
+    ['link', { rel: "icon", type: "image/svg", href: "/images/logo-small.svg" }],
   ],
 
   /**
